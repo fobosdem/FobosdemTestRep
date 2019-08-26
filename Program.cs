@@ -23,6 +23,7 @@ namespace ConsoleRelease2
 
             Console.WriteLine(instance.FindMax());
 
+			Console.WriteLine("hello from D.Kurilo");
 
             Console.ReadKey();
         }
