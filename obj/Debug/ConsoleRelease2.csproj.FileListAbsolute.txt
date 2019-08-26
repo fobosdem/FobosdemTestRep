@@ -1,12 +1,12 @@
 C:\Users\Olga\Desktop\A-Level\les8\ConsoleRelease2\bin\Debug\ConsoleRelease2.exe.config
 C:\Users\Olga\Desktop\A-Level\les8\ConsoleRelease2\bin\Debug\ConsoleRelease2.exe
 C:\Users\Olga\Desktop\A-Level\les8\ConsoleRelease2\bin\Debug\ConsoleRelease2.pdb
-C:\Users\Olga\Desktop\A-Level\les8\ConsoleRelease2\bin\Debug\arrayLib.dll
-C:\Users\Olga\Desktop\A-Level\les8\ConsoleRelease2\bin\Debug\BiggestNumber.dll
-C:\Users\Olga\Desktop\A-Level\les8\ConsoleRelease2\bin\Debug\ClassLibrary1.dll
-C:\Users\Olga\Desktop\A-Level\les8\ConsoleRelease2\bin\Debug\MathArray.dll
 C:\Users\Olga\Desktop\A-Level\les8\ConsoleRelease2\obj\Debug\ConsoleRelease2.csprojAssemblyReference.cache
 C:\Users\Olga\Desktop\A-Level\les8\ConsoleRelease2\obj\Debug\ConsoleRelease2.csproj.CoreCompileInputs.cache
 C:\Users\Olga\Desktop\A-Level\les8\ConsoleRelease2\obj\Debug\ConsoleRelease2.csproj.CopyComplete
 C:\Users\Olga\Desktop\A-Level\les8\ConsoleRelease2\obj\Debug\ConsoleRelease2.exe
 C:\Users\Olga\Desktop\A-Level\les8\ConsoleRelease2\obj\Debug\ConsoleRelease2.pdb
+C:\Users\Olga\Desktop\A-Level\les8\ConsoleRelease2\bin\Debug\arrayLib.dll
+C:\Users\Olga\Desktop\A-Level\les8\ConsoleRelease2\bin\Debug\BiggestNumber.dll
+C:\Users\Olga\Desktop\A-Level\les8\ConsoleRelease2\bin\Debug\ClassLibrary1.dll
+C:\Users\Olga\Desktop\A-Level\les8\ConsoleRelease2\bin\Debug\MathArray.dll

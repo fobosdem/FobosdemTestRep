@@ -33,17 +33,21 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="arrayLib">
-      <HintPath>..\dll\arrayLib.dll</HintPath>
+    <Reference Include="arrayLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll\arrayLib.dll</HintPath>
     </Reference>
-    <Reference Include="BiggestNumber">
-      <HintPath>..\dll\BiggestNumber.dll</HintPath>
+    <Reference Include="BiggestNumber, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll\BiggestNumber.dll</HintPath>
     </Reference>
-    <Reference Include="ClassLibrary1">
-      <HintPath>..\dll\ClassLibrary1.dll</HintPath>
+    <Reference Include="ClassLibrary1, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll\ClassLibrary1.dll</HintPath>
     </Reference>
-    <Reference Include="MathArray">
-      <HintPath>..\dll\MathArray.dll</HintPath>
+    <Reference Include="MathArray, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll\MathArray.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
